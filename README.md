@@ -1,2 +1,2 @@
 # Simple Chatbot
- Made with PHP with MySQL & jQuery 
+ Made with HTML, CSS, PHP, MySQL & jQuery 
